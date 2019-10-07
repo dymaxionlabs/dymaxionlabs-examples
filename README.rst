@@ -3,7 +3,7 @@ examples
 ========
 
 Public repository for distributing example Juypter notebooks. For the full
-client documentation, visit https://dymaxionlabs.readthedocs.io/
+client documentation, visit https://dymaxionlabs-python.readthedocs.io
 
 To contribute, checkout a branch, and add the tutorial as a Jupyter Notebook
 directly to the root directory.  If there are supporting files, such as
